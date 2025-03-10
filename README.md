@@ -20,6 +20,10 @@ In these weeks, we will dive into modern deep learning concepts with a special f
 - **Stanford Lecture on Transformers:**  
   [Watch the lecture](https://youtu.be/LWMzyfvuehA?si=LnUSBxHnt0e71iJ8)
 
+- **Code Implementation:**
+   [Code]( https://github.com/tunz/transformer-pytorch/blob/e7266679f0b32fd99135ea617213f986ceede056/model/transformer.py#L201)
+-  
+
 ---
 
 ## Project Focus: Transformer Architecture Deep Dive
